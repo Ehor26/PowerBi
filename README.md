@@ -1,4 +1,4 @@
-# **PowerBi**
+# **Power Bi**
 
 Dashboards desenvolvidos durante o Workshop 2 de Power Bi do Leonardo Karpinski. 
 
@@ -14,7 +14,7 @@ Com os arquivos devidamente importados para Power Bi, realizo alguns tratamentos
 
 
 
-## 1.	Dashboard Financeiro.
+## 2.	Dashboard Financeiro.
 No relatório encontra-se as seguintes informações:
 - Receita
 - Margem de Contribuição
@@ -29,7 +29,7 @@ Além de conter um fluxo de caixa, com análise vertical.
 
 
 
-## 2.	Dashboard RH
+## 3.	Dashboard RH
 O intuito desse relatório é fornecer uma visão geral da movimentação dos colaboradores, nele temos as análises divididas em: Colaboradores Ativos, Contratações e Desligamentos; onde cada análise é segmentada por Setor, Liderança e Cargo. Há também uma página contendo as informações do colaborador. 
 >Veja em tela cheia (canto inferiror direito)
 
@@ -37,7 +37,7 @@ O intuito desse relatório é fornecer uma visão geral da movimentação dos co
 
 
 
-## 3.	Dashboard Comercial
+## 4.	Dashboard Comercial
 Nesse relatório simulo uma análise do setor comercial (vendas), onde nele contem as seguintes métricas: 
  - Faturamento
 - Qte de vendas
