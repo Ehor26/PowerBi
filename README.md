@@ -1,4 +1,4 @@
-#### PowerBi
+# **PowerBi**
 
 Dashboards desenvolvidos durante o Workshop 2 de Power Bi do Leonardo Karpinski. 
 
@@ -14,7 +14,7 @@ Com os arquivos devidamente importados para Power Bi, realizo alguns tratamentos
 
 
 
-1.	Dashboard Financeiro.
+## 1.	Dashboard Financeiro.
 No relatório encontra-se as seguintes informações:
 - Receita
 - Margem de Contribuição
@@ -22,22 +22,22 @@ No relatório encontra-se as seguintes informações:
 - A porcentagem de variação da receita em relação ao ano anterior.
 - Receita do ano anterior.
 Além de conter um fluxo de caixa, com análise vertical. 
+>Veja em tela cheia (canto inferiror direito)
 
 <iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYThiNDlhYzktYzc1Zi00Zjc4LWE0NDAtODNmNjVlYTY4YTZmIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9&pageName=ReportSection5720485a3842ec570ee6" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
 
-2.	Dashboard RH
+## 2.	Dashboard RH
 O intuito desse relatório é fornecer uma visão geral da movimentação dos colaboradores, nele temos as análises divididas em: Colaboradores Ativos, Contratações e Desligamentos; onde cada análise é segmentada por Setor, Liderança e Cargo. Há também uma página contendo as informações do colaborador. 
+>Veja em tela cheia (canto inferiror direito)
+
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTcxMmViYzItZmY4Zi00YmRkLTgzYzUtOWNiNjliNGM1YzcwIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-<iframe width="800" height="836" src="https://app.powerbi.com/view?r=eyJrIjoiZTcxMmViYzItZmY4Zi00YmRkLTgzYzUtOWNiNjliNGM1YzcwIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-
-
-
-3.	Dashboard Comercial
+## 3.	Dashboard Comercial
 Nesse relatório simulo uma análise do setor comercial (vendas), onde nele contem as seguintes métricas: 
  - Faturamento
 - Qte de vendas
@@ -46,6 +46,6 @@ Nesse relatório simulo uma análise do setor comercial (vendas), onde nele cont
 - Cobertura
  podendo ser analisadas no geral ou para um vendedor específico. 
 Em metas, uso a what if analysis por ano ou por mês, podendo ser analisada por vendedor.
+>Veja em tela cheia (canto inferiror direito)
 
-
- 
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODIxNGJlZmMtM2E3OC00ZGIyLTg2ZDgtOTFmMjZiYTZjODQ5IiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
