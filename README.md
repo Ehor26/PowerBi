@@ -22,6 +22,7 @@ No relatório encontra-se as seguintes informações:
 - Receita do ano anterior.
 Além de conter um fluxo de caixa, com análise vertical. 
 
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYThiNDlhYzktYzc1Zi00Zjc4LWE0NDAtODNmNjVlYTY4YTZmIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9&pageName=ReportSection5720485a3842ec570ee6" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
