@@ -24,7 +24,7 @@ No relatório encontra-se as seguintes informações:
 Além de conter um fluxo de caixa, com análise vertical. 
 >Veja em tela cheia (canto inferiror direito)
 
-<iframe width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiYThiNDlhYzktYzc1Zi00Zjc4LWE0NDAtODNmNjVlYTY4YTZmIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9&pageName=ReportSection5720485a3842ec570ee6" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiYThiNDlhYzktYzc1Zi00Zjc4LWE0NDAtODNmNjVlYTY4YTZmIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9&pageName=ReportSection5720485a3842ec570ee6" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
@@ -33,7 +33,7 @@ Além de conter um fluxo de caixa, com análise vertical.
 O intuito desse relatório é fornecer uma visão geral da movimentação dos colaboradores, nele temos as análises divididas em: Colaboradores Ativos, Contratações e Desligamentos; onde cada análise é segmentada por Setor, Liderança e Cargo. Há também uma página contendo as informações do colaborador. 
 >Veja em tela cheia (canto inferiror direito)
 
-<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZTcxMmViYzItZmY4Zi00YmRkLTgzYzUtOWNiNjliNGM1YzcwIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiZTcxMmViYzItZmY4Zi00YmRkLTgzYzUtOWNiNjliNGM1YzcwIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
@@ -48,4 +48,4 @@ Nesse relatório simulo uma análise do setor comercial (vendas), onde nele cont
 Em metas, uso a what if analysis por ano ou por mês, podendo ser analisada por vendedor.
 >Veja em tela cheia (canto inferiror direito)
 
-<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODIxNGJlZmMtM2E3OC00ZGIyLTg2ZDgtOTFmMjZiYTZjODQ5IiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiODIxNGJlZmMtM2E3OC00ZGIyLTg2ZDgtOTFmMjZiYTZjODQ5IiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
