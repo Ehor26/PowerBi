@@ -1,6 +1,6 @@
 # **Power Bi**
 
- ### 1. Dashboards desenvolvidos durante o Workshop 2 de Power Bi do Leonardo Karpinski. 
+### 1. Dashboards desenvolvidos durante o Workshop 2 de Power Bi do Leonardo Karpinski. 
 
 ### 1.1	Arquitetura 
 Na Arquitetura simulo a extração de dados de um sistema CRM e as salvo em arquivos do Excel (.xlxs) em uma pasta específica, pois no Power bi uso o conector de Pasta e crio um Parâmetro caso necessite alterar o caminho dos arquivos.
@@ -50,7 +50,7 @@ Em metas, uso a what if analysis por ano ou por mês, podendo ser analisada por 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- # 2. DashBoard WareHouse
+# 2. DashBoard WareHouse
  
   Ralatório desenvolvido para simular uma Gestão de WareHouse
   
