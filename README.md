@@ -41,8 +41,7 @@ Nesse relatório simulo uma análise do setor comercial (vendas), onde nele cont
 - Qte de vendas
 - Ticket médio
 - Peso
-- Cobertura
- podendo ser analisadas no geral ou para um vendedor específico. 
+- Cobertura podendo ser analisadas no geral ou para um vendedor específico.
 Em metas, uso a what if analysis por ano ou por mês, podendo ser analisada por vendedor.
 >Veja em tela cheia (canto inferiror direito)
 
