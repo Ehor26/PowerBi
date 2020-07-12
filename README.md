@@ -8,7 +8,7 @@ Dashboards desenvolvidos durante o Workshop 2 de Power Bi do Leonardo Karpinski.
 Na Arquitetura simulo a extração de dados de um sistema CRM e as salvo em arquivos do Excel (.xlxs) em uma pasta específica, pois no Power bi uso o conector de Pasta e crio um Parâmetro caso necessite alterar o caminho dos arquivos.
 Com os arquivos devidamente importados para Power Bi, realizo alguns tratamentos nos dados e posteriormente a modelagem OLAP e a criação dos dashboards.
 
-![](https://github.com/Ehor26/PowerBi/blob/master/Arquitetura.png)
+![](https://user-images.githubusercontent.com/32528638/87250363-a72b4700-c43a-11ea-9f29-7d06fbd7fba7.png)
 
 
 
