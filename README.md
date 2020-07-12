@@ -31,7 +31,7 @@ Além de conter um fluxo de caixa, com análise vertical.
 2.	Dashboard RH
 O intuito desse relatório é fornecer uma visão geral da movimentação dos colaboradores, nele temos as análises divididas em: Colaboradores Ativos, Contratações e Desligamentos; onde cada análise é segmentada por Setor, Liderança e Cargo. Há também uma página contendo as informações do colaborador. 
 
-
+<iframe width="800" height="836" src="https://app.powerbi.com/view?r=eyJrIjoiZTcxMmViYzItZmY4Zi00YmRkLTgzYzUtOWNiNjliNGM1YzcwIiwidCI6ImVhNzM0MGQ2LWVmNjEtNGFhMy05ODFjLWM4NjgxODY4YzY1NyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
@@ -44,4 +44,6 @@ Nesse relatório simulo uma análise do setor comercial (vendas), onde nele cont
 - Cobertura
  podendo ser analisadas no geral ou para um vendedor específico. 
 Em metas, uso a what if analysis por ano ou por mês, podendo ser analisada por vendedor.
+
+
  
